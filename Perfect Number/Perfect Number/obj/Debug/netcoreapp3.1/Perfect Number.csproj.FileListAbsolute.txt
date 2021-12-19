@@ -1,0 +1,14 @@
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.exe
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.deps.json
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.runtimeconfig.json
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.runtimeconfig.dev.json
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.dll
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\bin\Debug\netcoreapp3.1\Perfect Number.pdb
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.csproj.AssemblyReference.cache
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.AssemblyInfoInputs.cache
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.AssemblyInfo.cs
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.csproj.CoreCompileInputs.cache
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.dll
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.pdb
+D:\visuals\day6 assignment\Perfect Number\Perfect Number\obj\Debug\netcoreapp3.1\Perfect Number.genruntimeconfig.cache
