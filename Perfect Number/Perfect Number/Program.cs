@@ -27,3 +27,4 @@ namespace Perfect_Number
         }
     }
 }
+
